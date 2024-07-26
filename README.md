@@ -11,18 +11,18 @@ Trend Analysis: Line chart visualizing sales trends throughout the year.
 Dataset
 The dataset contains the following fields:
 
-# ORDERNUMBER: Unique identifier for each order.
-# QUANTITYORDERED: Number of units ordered.
-# PRICEEACH: Price of each unit.
-# SALES: Total sales value for each order line.
-# ORDERDATE: Date when the order was placed.
-# STATUS: Current status of the order.
-# PRODUCTLINE: Category of the product.
-# MSRP: Manufacturer's suggested retail price.
-# PRODUCTCODE: Unique code for each product.
-# USTOMERNAME: Name of the customer.
-# COUNTRY: Country where the order was placed.
-# DEALSIZE: Size of the deal (small, medium, large).
+#### ORDERNUMBER: Unique identifier for each order.
+#### QUANTITYORDERED: Number of units ordered.
+#### PRICEEACH: Price of each unit.
+#### SALES: Total sales value for each order line.
+#### ORDERDATE: Date when the order was placed.
+#### STATUS: Current status of the order.
+#### PRODUCTLINE: Category of the product.
+#### MSRP: Manufacturer's suggested retail price.
+#### PRODUCTCODE: Unique code for each product.
+#### USTOMERNAME: Name of the customer.
+#### COUNTRY: Country where the order was placed.
+#### DEALSIZE: Size of the deal (small, medium, large).
 
 
 # Visualizations
