@@ -1,5 +1,7 @@
 # Sales and Marketing Analytics Dashboard
 
+PowerBi Dashboard Link: 'https://app.powerbi.com/links/NlIMjy7l62?ctid=10d00a63-83c1-479c-a8fd-6e2685526a90&pbi_source=linkShare'
+
 # Overview
 The Sales and Marketing Analytics Dashboard is a Power BI project designed to provide insights into sales performance, product line performance, deal size distribution, order status, and geographic sales distribution. This project demonstrates data visualization skills, proficiency in DAX (Data Analysis Expressions), and the ability to extract actionable insights from sales data to support business decision-making.
 # Features
