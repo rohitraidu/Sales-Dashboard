@@ -59,7 +59,10 @@ Power BI Desktop: Download and install Power BI Desktop to view and interact wit
 
 # Insights for Sales and Marketing Strategies
 
-1.Identify Growth Opportunities: By analyzing sales data, the dashboard helps identify new opportunities for growth in different markets and product lines.
+1. Identify Growth Opportunities: By analyzing sales data, the dashboard helps identify new opportunities for growth in different markets and product lines.
+
 2. Optimize Marketing Campaigns: Insights from the dashboard enable the marketing team to evaluate the effectiveness of their campaigns and adjust strategies to target the right audience more effectively.
+   
 3. Improve Customer Retention: Understanding order status and customer satisfaction can lead to improved customer service and retention strategies.
+
 4. Strategic Decision Making: Data-driven insights support informed decision-making for both short-term and long-term sales and marketing goals.
